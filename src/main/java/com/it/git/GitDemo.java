@@ -8,5 +8,6 @@ public class GitDemo {
         System.out.println("hot-fix");
         System.out.println("hot-fix1");
         System.out.println("master");
+        System.out.println("这是一本武林秘籍");
     }
 }
