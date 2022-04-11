@@ -6,5 +6,6 @@ public class GitDemo {
         System.out.println("git Second");
         System.out.println("git third");
         System.out.println("hot-fix");
+        System.out.println("hot-fix1");
     }
 }
